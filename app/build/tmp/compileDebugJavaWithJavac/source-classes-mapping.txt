@@ -1,0 +1,2 @@
+com/example/imagesofgallerycamera/BuildConfig.java
+ com.example.imagesofgallerycamera.BuildConfig
